@@ -4,4 +4,6 @@ Type "copyright", "credits" or "license()" for more information.
 >>> tk=Tk()
 >>> btn=Button(tk, text="Bryan Vergara")
 >>> btn.pack()
+>>> boton=Button(tk, text="Daniel Maldonado")
+>>> boton.pack()
 >>> 
